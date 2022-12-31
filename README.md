@@ -1,6 +1,5 @@
 <b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-weirdnehal-dimgray?style=flat-square&logo=github)](https://github.com/weirdnehal)<br> 
-[![Facebook](https://img.shields.io/badge/Facebook-Nehal Ahmed-blue?style=flat-square&logo=facebook)](https://www.facebook.com/nehal.ahmed6)<br> 
- [![Whatsapp](https://img.shields.io/badge/Whatsapp-NEHAL-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801613016943)
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-NEHAL-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801613016943)
 
 
 
@@ -11,7 +10,7 @@
 
 ## <b>installation</b>
 
-🔰 _AUTO CRACKING FILE_ 🔰
+🔰 AUTO CRACKING FILE 🔰
 
 - `pkg update`
 - `pkg upgrade`
