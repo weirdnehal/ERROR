@@ -5,7 +5,7 @@
 
 <h1 align="center"> [weirdnehal]</h1>
 
-<h2 align="center">  CRACKING TOOL FREE </h2>
+<h2 align="center">  FREE CRACKING TOOL  </h2>
 
 
 ## <b>installation</b>
